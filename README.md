@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lenindelarosa
 - 👀 I’m interested in becoming a backend developer. 
-- 🌱 I’m currently learning Javascript, CSS and HTML.
+- 🌱 I’m currently learning Reactjs, Javascript, CSS and HTML.
 - 💞️ I’m looking to collaborate on Web Development projects. 
 - 📫 How to reach me: leninmanueld@gmail.com
 
